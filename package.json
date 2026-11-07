@@ -9,7 +9,7 @@
         "packages/mobx-undecorate"
     ],
     "overrides": {
-        "jest": "^30.3.0",
+        "jest": "^30.5.2",
         "typescript": "^5.9.2",
         "recast": "^0.23.1"
     },
@@ -69,8 +69,8 @@
         "husky": "^4.2.5",
         "import-size": "^1.0.2",
         "iterall": "^1.3.0",
-        "jest": "^30.3.0",
-        "jest-environment-jsdom": "^30.3.0",
+        "jest": "^30.5.2",
+        "jest-environment-jsdom": "^30.5.2",
         "jest-mock-console": "^1.0.1",
         "lint-staged": "^10.1.7",
         "lodash": "^4.17.4",
